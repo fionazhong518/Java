@@ -1,0 +1,35 @@
+{
+    "name": "ShoppingCart",
+    "items": [
+        {
+            "price": 6.09,
+            "name": "McChicken",
+            "calories": 480,
+            "category": "Burgers"
+        },
+        {
+            "price": 6.29,
+            "name": "6-piece McNuggets",
+            "calories": 360,
+            "category": "SnacksAndSides"
+        },
+        {
+            "price": 3.89,
+            "name": "Oreo McFlurry",
+            "calories": 570,
+            "category": "DessertsAndShakes"
+        },
+        {
+            "price": 2.35,
+            "name": "Diet Coke",
+            "calories": 1,
+            "category": "Beverages"
+        },
+        {
+            "price": 3.69,
+            "name": "World Famous Fries",
+            "calories": 350,
+            "category": "SnacksAndSides"
+        }
+    ]
+}

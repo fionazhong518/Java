@@ -1,0 +1,9 @@
+{
+    "name": "ShoppingCart",
+    "items": [{
+        "price": 9.59,
+        "name": "Double Quarter Ponder BLT",
+        "calories": 830,
+        "category": "Burgers"
+    }]
+}
